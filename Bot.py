@@ -36,13 +36,13 @@ async def start(event):
     
     await event.client.send_file(
         event.chat_id,
-        file="https://te.legra.ph/file/baa5010186fc9178ff632.jpg",
-        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴀʟᴇxᴀ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [SHIVANG](https://t.me/ll_SHIVANG_ll)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [ ʜᴇʟᴘ](https://t.me/Love_fellings_143)┓\n┣★ ʀᴇᴘᴏ › : [ʙʀᴀɴᴅᴇᴅ ʀᴇᴘᴏ](https://github.com/bihariking169/BrandedXMention)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/ll_SHIVANG_ll) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
+        file="https://te.legra.ph/file/9022ad0061ec028c562ea.jpg",
+        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴀʟᴇxᴀ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [🌸𓆩 𝐒˚𝐇˚𝐈˚𝐕˚𝐀˚𝐍˚𝐆 𓆪💫](https://t.me/ll_SHIVANG_ll)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [🌸𝐇𝐄𝐋𝐏💫](https://t.me/HEARTBEATS_SUPPORT)┓\n┣★ ʀᴇᴘᴏ › : [🌸𓆩 𝐒˚𝐇˚𝐈˚𝐕˚𝐀˚𝐍˚𝐆 𓆪💫](https://t.me/ll_SHIVANG_ll)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [🌸𓆩 𝐒˚𝐇˚𝐈˚𝐕˚𝐀˚𝐍˚𝐆 𓆪💫](https://t.me/ll_SHIVANG_ll) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=[
-            [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "https://t.me/Crazy_mentionbot?startgroup=true")],
-            [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/Love_fellings_143"), Button.url("❤️‍🔥 ᴄʜᴀɴɴᴇʟ 💫", "https://t.me/Love_fellings_143")],
-            [Button.url("❤️‍🔥 FELLINGS 💫", "https://t.me/Love_fellings_143"), Button.url("❤️‍🔥 SHIVANG ❤️‍🔥", "https://t.me/ll_SHIVANG_ll")]
+            [Button.url("🌸𝐀𝐃𝐃 𝐌𝐄 𝐁𝐀𝐁𝐘💫", "https://t.me/Heartbeats_MentionBot?startgroup=true")],
+            [Button.url("🌸𝐆𝐑𝐎𝐔𝐏💫", "https://t.me/HEARTBEATS_SUPPORT"), Button.url("🌸𝐂𝐇𝐀𝐍𝐍𝐄𝐋💫", "https://t.me/Hearbeat_BOT")],
+            [Button.url("🌸𝐇𝐄𝐑𝐎𝐊𝐔 𝐂𝐂💫", "https://t.me/HEARTBEATS_HEROKU_CC"), Button.url("🌸𓆩 𝐒˚𝐇˚𝐈˚𝐕˚𝐀˚𝐍˚𝐆 𓆪💫", "https://t.me/ll_SHIVANG_ll")]
         ]
     )
 
@@ -58,8 +58,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/Love_fellings_143"),
-                Button.url("❤️‍🔥 OWNER 💫", "https://t.me/ll_SHIVANG_ll"),
+                Button.url("🌸𝐒𝐔𝐏𝐏𝐎𝐑𝐓💫", "https://t.me/HEARTBEATS_SUPPORT"),
+                Button.url("🌸𓆩 𝐒˚𝐇˚𝐈˚𝐕˚𝐀˚𝐍˚𝐆 𓆪💫", "https://t.me/ll_SHIVANG_ll"),
             ]
         ),
     )
@@ -70,14 +70,14 @@ async def help(event):
     chat_id = event.chat_id
     if not event.is_private:
         return await event.respond("ᴅᴇᴀʀ sᴛᴀʀᴛ ᴍᴇ ɪɴ ᴘᴍ ᴛᴏ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴғ 🥺")
-    helptext = "✪ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ ᴀʟᴇxᴀ ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴍʏ ᴏᴡɴᴇʀ ɪs [ SHIVANG ](https://t.me/ll_SHIVANG_ll)\n✪ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ ʙʀᴀɴᴅᴇᴅ\n✪ ʏᴏᴜᴛᴜʙᴇ [ᴄʜᴀɴɴᴇʟ](https://t.me/Love_fellings_143)\n✪ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
+    helptext = "✪ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ ᴀʟᴇxᴀ ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴍʏ ᴏᴡɴᴇʀ ɪs [🌸𓆩 𝐒˚𝐇˚𝐈˚𝐕˚𝐀˚𝐍˚𝐆 𓆪💫](https://t.me/ll_SHIVANG_ll)\n✪ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ ʙʀᴀɴᴅᴇᴅ\n✪ ʏᴏᴜᴛᴜʙᴇ [🌸𝐂𝐇𝐀𝐍𝐍𝐄𝐋💫](https://t.me/Hearbeat_BOT)\n✪ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
     await event.reply(
         helptext,
         link_preview=False,
         buttons=(
             [
-                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/Love_fellings_143"),
-                Button.url("❤️‍🔥 BABU 💫", "https://t.me/ll_SHIVANG_ll"),
+                Button.url("🌸𝐒𝐔𝐏𝐏𝐎𝐑𝐓💫", "https://t.me/HEARTBEATS_SUPPORT"),
+                Button.url("🌸𓆩 𝐒˚𝐇˚𝐈˚𝐕˚𝐀˚𝐍˚𝐆 𓆪💫", "https://t.me/ll_SHIVANG_ll"),
             ]
         ),
     )
